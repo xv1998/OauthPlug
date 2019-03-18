@@ -1,0 +1,3 @@
+<!--plugin/pages/info/info.wxml-->
+<button bindtap="getUserInfo">查询用户信息</button>
+<view hidden='{{reply}}'>学生id：{{info.id}}</view>

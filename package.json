@@ -1,0 +1,21 @@
+{
+  "name": "oauthplug",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "eslint-config-alloy": "^1.4.2",
+    "eslint": "^5.15.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
